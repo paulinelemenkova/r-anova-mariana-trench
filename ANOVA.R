@@ -1,3 +1,14 @@
+# ============================================================================
+# ANOVA (analysis of variance) of Mariana Trench factors (R, car).
+# This produced figures in the peer-reviewed article:
+#   Lemenkova, P. (2019). An Empirical Study of R Applications for Data Analysis
+#   in Marine Geology. Marine Science and Technology Bulletin, 8(1), 1-9.
+#   DOI: https://doi.org/10.33714/masteb.486678
+#   figshare: https://doi.org/10.6084/m9.figshare.7358201
+#   HAL: https://hal.science/hal-02068709  Zenodo: https://zenodo.org/record/2594673
+# Author: Polina Lemenkova | ORCID: 0000-0002-5759-1089
+# ============================================================================
+
 # ANOVA (Analysis of Variance)
 # ЧАСТЬ-1. готовим датафрейм. 
 	# шаг-1. вчитываем таблицу с данными. делаем из нее исходный датафрейм.
